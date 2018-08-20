@@ -2,7 +2,7 @@
 
 This is a mockup responsive website for a street art photographer.
 It includes a homepage, an about page and a portfolio.
-[See live version]()
+[See live version](https://rawgit.com/iris-anghel/Street-Art-Photographer-Website/master/index.html)
 
 ## Dependencies
 
@@ -13,8 +13,8 @@ It includes a homepage, an about page and a portfolio.
 * [Homepage texture - Grunge and Grit Textures by Zach Terrell](https://creativemarket.com/zachterrell/1691073-Grunge-and-Grit-Textures)
 * [Spray can icon](https://www.flaticon.com/)
 
-![homepage-iphone](https://user-images.githubusercontent.com/18640359/44340794-aed05400-a48e-11e8-81c2-3c4405b5d620.png)
+<img src="screenshots/homepage-iphone.png" heigth="50%"/>
 
-![about-ipad](https://user-images.githubusercontent.com/18640359/44340799-b09a1780-a48e-11e8-8a0d-7a82d46a2709.png)
+<img src="screenshots/about-ipad.png" heigth="50%"/>
 
-![portfolio-ipad](https://user-images.githubusercontent.com/18640359/44340803-b263db00-a48e-11e8-8cbe-9f44e1501114.png)
+<img src="screenshots/portfolio-ipad.png" heigth="50%"/>
